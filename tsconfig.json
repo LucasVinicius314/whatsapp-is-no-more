@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2021"],
+    "outDir": "build",
+    "sourceMap": true
+  },
+  "exclude": ["node_modules", "build"],
+  "include": ["src"]
+}

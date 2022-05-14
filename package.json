@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-is-no-more",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "author": "Lucas Coelho <58010418+LucasVinicius314@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33"
+  }
+}
